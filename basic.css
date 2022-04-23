@@ -1,0 +1,57 @@
+
+body {
+    margin: 0;
+    text-align: center;
+    
+    color: #fff;
+   
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(img/laptop.img.jpg);
+    padding: 10px;
+    
+}
+
+img {
+    size: 10%;
+
+}
+
+button {
+    text-align: center;
+    margin: 0;
+    
+}
+
+#btn1
+{
+color: red;
+}
+
+#btn2
+ {
+    color: aqua;
+    
+
+}
+
+#btn1:hover,
+#btn2:hover{
+    background-color: blue;
+}
+
+#save_btn {
+    background-color: black;
+    color: #fff;
+}
+.columns {
+    display:flexbox;
+    margin: 50px ;
+    text-align: auto;
+   
+
+}
+
+.secondary{
+    margin-top: 1000px;
+}
